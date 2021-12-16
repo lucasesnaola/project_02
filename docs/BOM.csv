@@ -1,0 +1,12 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"COPYRIGHT";"MANUFACTURER_PART_NUMBER";"MFR_NAME";
+"1";"0.1";"R_R0805";"R0805";"R2";"RESISTOR, American symbol";"";"";"";
+"1";"1 K";"R_R0603";"R0603";"R1";"RESISTOR, American symbol";"";"";"";
+"1";"DCMOTOR";"DCMOTOR";"DCMOTOR";"U1";"";"";"";"";
+"6";"FIDUCIAL";"FIDUCIAL";"FIDUCIAL_40MIL";"FUD1, FUD2, FUD3, FUD4, FUD5, FUD6";"";"";"";"";
+"1";"L293D";"L293D";"POWERDIP-16_STM";"U5";"L293D Motor Controller for DC motor";"Copyright (C) 2021 Ultra Librarian. All rights reserved.";"L293D";"STMicroelectronics";
+"1";"LED";"LED";"EIA-STD";"D1";"EIA-STD LED; LTST-C191TBKT";"";"";"";
+"4";"MOUNTING_HOLE";"MOUNTING_HOLE";"MOUNTING_HOLE";"MGT1, MGT2, MGT3, MGT5";"Chassis Mounting Hole w/GND connection ability";"";"";"";
+"1";"NRF24L01P-MODULE";"NRF24L01P-MODULE";"NRF24L01P-MODULE";"U2";"NRF24L01P-MODULE";"";"";"";
+"1";"POCKETBEAGLE";"POCKETBEAGLE";"POCKETBEAGLE";"U3";"Pocketbeagle";"";"";"";
+"1";"PUSH_BUTTON";"PUSH_BUTTON";"BUTTON_12.5MM";"SW1";"";"";"";"";
+"1";"SERVO_SG90";"SERVO_SG90";"SERVO-X1";"U4";"180 degree roatation SG90 Servo";"";"";"";
